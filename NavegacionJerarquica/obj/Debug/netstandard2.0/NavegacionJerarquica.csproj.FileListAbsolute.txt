@@ -1,0 +1,17 @@
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\bin\Debug\netstandard2.0\NavegacionJerarquica.deps.json
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\bin\Debug\netstandard2.0\NavegacionJerarquica.dll
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\bin\Debug\netstandard2.0\NavegacionJerarquica.pdb
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\NavegacionJerarquica.csproj.AssemblyReference.cache
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\NavegacionJerarquica.GeneratedMSBuildEditorConfig.editorconfig
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\About.xaml.g.cs
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\Cursos.xaml.g.cs
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\NavegacionJerarquica.AssemblyInfoInputs.cache
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\NavegacionJerarquica.AssemblyInfo.cs
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\NavegacionJerarquica.csproj.CoreCompileInputs.cache
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\NavegacionJerarquica.dll
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\refint\NavegacionJerarquica.dll
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\NavegacionJerarquica.pdb
+D:\xamarin2023\NavegacionJerarquica\NavegacionJerarquica\obj\Debug\netstandard2.0\ref\NavegacionJerarquica.dll
